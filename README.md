@@ -49,7 +49,7 @@ Energy | Metal | Realty | Infra | Media
  Investors seeking growth should overweight Realty , Infra and Energy. Risk-averse investors should favour FMCG for stability. Media sector should be avoided - negative returns with highest volatility make it poor risk-adjusted investment.
 
 ## Dashboard
-
+https://github.com/Geethika1258/indian-stock-market-sector-analysis/blob/main/dashboard_screenshot.png.png
 
 
 ## Tools 
