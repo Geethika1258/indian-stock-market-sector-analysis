@@ -50,7 +50,7 @@ Energy | Metal | Realty | Infra | Media
 
 ## Dashboard
 https://github.com/Geethika1258/indian-stock-market-sector-analysis/blob/main/dashboard_screenshot.png.png
-
+https://github.com/Geethika1258/indian-stock-market-sector-analysis/blob/main/NSE_Sector_Performance_Dashboard.pdf
 
 ## Tools 
 Python | yfinance | Pandas | Numpy | Matplotlib | 
